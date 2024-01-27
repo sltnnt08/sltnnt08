@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sltnnt08
 - 👀 I’m interested in Coding, Software, Hardware, and Data Analytics
 - 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on Google
+- 💞️ I’m looking to collaborate on Software Engineering
 - 📫 Contact me on Insta @sltn_nt
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I only sleep 6 Hours
