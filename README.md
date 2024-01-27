@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Google
 - 📫 Contact me on Insta @sltn_nt
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I Slept 6 Hours in night
+- ⚡ Fun fact: I only sleep 6 Hours
 
 <!---
 sltnnt08/sltnnt08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
