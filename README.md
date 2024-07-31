@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Software Engineering
 - 📫 Contact me on Insta @sltn_nt
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I only sleep 6 Hours
+- ⚡ Fun fact: I can't ride a bicycle :(
 
 <!---
 sltnnt08/sltnnt08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
